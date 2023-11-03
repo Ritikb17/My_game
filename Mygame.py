@@ -1,4 +1,6 @@
+# this python project is updated
 def pt():
+
     print(lst[1],lst[2],lst[3],lst[4])
     print(lst[5],lst[6],lst[7],lst[8])
     print(lst[9],lst[10],lst[11],lst[12])
