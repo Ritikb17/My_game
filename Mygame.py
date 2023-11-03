@@ -38,7 +38,7 @@ while x < 4 and  y < 4:
     
     hold=False
     pt()
-    ref = int(input("\n\n\n ->Enter the postion of dice PLAYER X\n->Enter 0 for exit the game "))
+    ref = int(input("\n\n\n -> Enter the postion of dice PLAYER X \n ->Enter 0 for exit the game "))
     if ref==0:
         print("->GAME OVER")
         hold=True
